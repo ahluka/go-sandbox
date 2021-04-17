@@ -1,3 +1,4 @@
-[go-sandbox]
+go-sandbox
+==========
 
 Various fiddlings with Go.
